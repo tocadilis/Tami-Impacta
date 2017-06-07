@@ -1,3 +1,3 @@
-#Nome: Tamirys Pinkoway Luvizutto
-#Empresa: Stefanini
-#Função: Estudante
+# Nome: Tamirys Pinkoway Luvizutto
+# Empresa: Stefanini
+# Função: Estudante
